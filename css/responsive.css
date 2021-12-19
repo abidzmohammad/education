@@ -1,0 +1,333 @@
+/* XL Device :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+   html{
+      font-size: 50%;
+   }
+    /* ===== */
+   
+}
+/* MD Device :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+   html{
+      font-size: 43.75%;
+   }
+   /* ===== */
+   .heading-paragraph{
+      font-size: 1.7rem;
+   }
+   .heading-parimary,
+   .heading-secondary{
+      font-size: 6rem;
+   }
+
+   /* ===== */
+   .course-category {
+      margin-left: 0;
+  }
+
+  /* ==== */
+  .safe-box{
+      width: 40%;
+      padding: .5rem;
+      right: 3rem;
+      top:10rem !important; 
+   }
+   .safe-icon{
+      width: 3rem;
+      height: 3rem;
+      line-height: 3rem;
+      font-size: 2rem;
+   }
+   .safe-box p{
+      font-size: 1.5rem;
+      line-height: 1rem;
+   }
+   /* ==== */
+}
+
+
+/* SM Small Device :550px. */
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+   .header button.navbar-toggler{
+      font-size: 2.5rem;
+   }
+   .header .navbar-brand{
+      margin-bottom: 1.5rem !important;
+   }
+   .navbar-collapse{
+      background-color: #fff;
+   }
+   .header .nav-item{
+      margin-bottom: 1rem !important;
+      padding-right: 0 !important;
+      padding-left: 0 !important;
+   }
+   .header .nav-link{
+      display: inline-block;
+   }
+   .register {
+      font-size: 1.6rem;
+      padding: 7px 10px;
+   }
+
+   /* ===== */
+   .heading-paragraph{
+      font-size: 1.4rem;
+   }
+   .heading-parimary,
+   .heading-secondary{
+      font-size: 4.5rem;
+   }
+    /* ===== */
+    .counter-area {
+      padding: 6rem 0 4rem 0!important;
+    }
+    .counter-box{
+      margin-bottom: 2rem;
+    }
+
+    /* ==== */
+    .course-category {
+      margin-left: 0;
+      margin-top: -4rem;
+  }
+
+  .img-box{
+     margin-bottom: 5rem;
+  }
+  .heading-title{
+      font-size: 3rem;
+   }
+   .safe-box{
+      width: 40%;
+      padding: 1rem;
+      right: 2.8rem;
+      top:10rem !important; 
+   }
+   .safe-icon{
+      width: 3rem;
+      height: 3rem;
+      line-height: 3rem;
+      font-size: 2rem;
+   }
+   .safe-box p{
+      font-size: 1.2rem;
+      line-height: 1rem;
+   }
+   .about-content h4{
+      font-size: 1.6rem;
+   }
+   .career-content{
+      margin-bottom: 4rem;
+   }
+   .heading-title{
+      font-size: 2.2rem;
+      margin-top: 5rem;
+   }
+
+/* Slider */
+   .popular-courses .owl-nav button{
+      width: 30px;
+      height: 30px;
+   }
+   .blog-area .owl-nav button{
+      width: 30px;
+      height: 30px;
+   }
+
+   /* ==== */
+   .testimonial{
+      padding: 6rem 0;
+   }
+   .testimonial-content .profile-img span{
+      font-size: 1.4rem;
+   }
+   .footer-2 h3{
+      margin-top: 2rem !important;
+   }
+   .footer-3 h3{
+      margin-top: 2rem !important;
+   }
+   .footer-4 h3{
+      margin-top: 2rem !important;
+   }
+   .footer-4 img {
+      width: 30%;
+   }
+   .social{
+      margin-top: 1rem;
+   }
+}
+/* SM Small Device :300px. */
+@media only screen and (max-width: 575px) {
+   .header button.navbar-toggler{
+      font-size: 2.5rem;
+   }
+   .header .navbar-brand{
+      margin-bottom: 1.5rem !important;
+   }
+   .navbar-collapse{
+      background-color: #fff;
+      padding: 1rem 0;
+   }
+   .header .nav-item{
+      margin-bottom: 1rem !important;
+      padding-right: 0 !important;
+      padding-left: 0 !important;
+   }
+   .header .nav-link{
+      display: inline-block;
+   }
+   .register {
+      font-size: 1.6rem;
+      padding: 7px 10px;
+   }
+
+   /* ===== */
+   .hero-area{
+      height: 80vh;
+   }
+   .heading-paragraph{
+      font-size: 1.2rem;
+   }
+   .heading-parimary{
+      margin-top: .6rem;
+   }
+   .heading-parimary,
+   .heading-secondary{
+      font-size: 3.5rem;
+   }
+   .heading-secondary{
+      margin-bottom: 3rem;
+   }
+   .common-btn{
+      padding: 8px 14px;
+   }
+
+   /* ==== */
+   .counter-area {
+      padding: 4rem 0 2rem 0;
+    }
+   .counter-box{
+      margin-bottom: 2rem;
+    }
+    .counter-box .counter-icon{
+      width: 5rem;
+      height: 5rem;
+      line-height: 5rem;
+   }
+   .counter-box .counter-icon i{
+      font-size: 3rem;
+   }
+    .counter-text h1{
+      font-size: 2.4rem;
+   }
+   .counter-text p{
+      font-size: 1.6rem;
+   }
+    /* ==== */
+    .course-category {
+      margin-left: 0;
+      margin-top: -4rem;
+  }
+  .heading-title{
+      font-size: 2.2rem;
+      margin-top: 5rem;
+   }
+   .safe-box{
+      width: 40%;
+      padding: .5rem;
+      right: 2.8rem;
+      top: 3.5rem;
+   }
+   .safe-icon{
+      width: 4rem;
+      height: 4rem;
+      line-height: 4rem;
+      font-size: 3rem;
+   }
+   .safe-box p{
+      font-size: 1rem;
+      margin-top: 0;
+      line-height: 2rem;
+   }
+   .safe-icon{
+      width: 2rem;
+      height: 2rem;
+      line-height: 2rem;
+      font-size: 1.5rem;
+   }
+   /* === */
+   .about-area{
+      padding: 6rem 0;
+   }
+   .about-content{
+      padding-left: 1rem !important;
+   }
+   .about-content h4{
+      font-size: 1.6rem;
+   }
+   /* ==== */
+   .career-content{
+      margin-bottom: 4rem;
+   }
+
+   /* Slider */
+   .popular-courses .owl-nav button{
+      width: 30px;
+      height: 30px;
+   }
+   .blog-area .owl-nav button{
+      width: 30px;
+      height: 30px;
+   }
+   /* ==== */
+   .testimonial{
+      padding: 4rem 0;
+   }
+   .testimonial-content {
+      padding: 1rem;
+   }
+   .testimonial-content .profile-img img{
+      width: 3.5rem !important;
+      height: 3.5rem;
+      margin-right: 0 !important;
+   }
+   .testimonial-content .profile-img span{
+      font-size: 1.4rem;
+   }
+   /* ==== */
+   .cta-text h4 {
+      font-size: 1.4rem;
+      font-weight: 600;
+   }
+   .cta-box {
+      padding: 0 2rem;
+   }
+   .cta-btn{
+      font-size: 1.2rem;
+   }
+   /* === */
+   .footer-2 h3{
+      margin-top: 2rem !important;
+   }
+   .footer-3 h3{
+      margin-top: 2rem !important;
+   }
+   .footer-4 h3{
+      margin-top: 2rem !important;
+   }
+   .footer-4 img {
+      width: 30%;
+   }
+   .social{
+      margin-top: 1rem;
+   }
+}
